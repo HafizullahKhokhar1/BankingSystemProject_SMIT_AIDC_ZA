@@ -49,4 +49,4 @@ The Banking System Mini-Project simulates the operations of a simple bank. Users
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hafizullahkhokhar1/BankingSystemProject.git
+   git clone https://github.com/hafizullahkhokhar1/BankingSystemProject_SMIT_AIDC_ZA.git
