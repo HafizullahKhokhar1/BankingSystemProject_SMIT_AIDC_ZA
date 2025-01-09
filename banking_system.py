@@ -30,7 +30,6 @@ class BankAccount:
             return "\n".join(self.transactions)
         return "No transactions available."
 
-
 class Bank:
     def __init__(self):
         self.accounts = {}
